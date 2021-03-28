@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>[%ld lamps]</key>
+    <dict>
+        <key>NSStringLocalizedFormatKey</key>
+        <string>%#@lu_total_lamps@</string>
+        <key>lu_total_lamps</key>
+        <dict>
+            <key>NSStringFormatSpecTypeKey</key>
+            <string>NSStringPluralRuleType</string>
+            <key>NSStringFormatValueTypeKey</key>
+            <string>lu</string>
+            <key>zero</key>
+            <string>no lamps</string>
+            <key>one</key>
+            <string>one lamp</string>
+            <key>other</key>
+            <string>%lu lamps</string>
+        </dict>
+    </dict>
+    <key>[Delete %ld places]</key>
+    <dict>
+        <key>NSStringLocalizedFormatKey</key>
+        <string>%#@lu_total_places@</string>
+        <key>lu_total_places</key>
+        <dict>
+            <key>NSStringFormatSpecTypeKey</key>
+            <string>NSStringPluralRuleType</string>
+            <key>NSStringFormatValueTypeKey</key>
+            <string>lu</string>
+            <key>zero</key>
+            <string>Delete no places?</string>
+            <key>one</key>
+            <string>Delete one place?</string>
+            <key>other</key>
+            <string>Delete %lu places?</string>
+        </dict>
+    </dict>
+</dict>
+</plist>

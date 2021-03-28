@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="5063" systemVersion="13C64" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="PlaceInfo" representedClassName="VPLPlaceInfo" syncable="YES">
+        <attribute name="archiveLink" attributeType="String" syncable="YES"/>
+        <attribute name="downloadedSize" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="localRevision" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="remoteRevision" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="reportedSize" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="totalSize" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="uid" attributeType="String" indexed="YES" syncable="YES"/>
+        <relationship name="texts" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="PlaceText" inverseName="info" inverseEntity="PlaceText" syncable="YES"/>
+    </entity>
+    <entity name="PlaceText" representedClassName="VPLPlaceText" syncable="YES">
+        <attribute name="details" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="language" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="info" maxCount="1" deletionRule="Nullify" destinationEntity="PlaceInfo" inverseName="texts" inverseEntity="PlaceInfo" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="PlaceInfo" positionX="-63" positionY="-18" width="128" height="165"/>
+        <element name="PlaceText" positionX="-54" positionY="18" width="128" height="103"/>
+    </elements>
+</model>

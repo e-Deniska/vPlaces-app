@@ -1,0 +1,140 @@
+
+/* Class = "IBUILabel"; text = "2 lamps"; ObjectID = "1Z3-kk-Id6"; */
+"1Z3-kk-Id6.text" = "2 lamps";
+
+/* Class = "IBUINavigationItem"; title = "Choose Hue lights"; ObjectID = "3Ov-hv-wLC"; */
+"3Ov-hv-wLC.title" = "Лампы hue";
+
+/* Class = "IBUITableViewSection"; footerTitle = "If you like vPlaces, please, send me a note. \n\nIf you have questions, suggestions, improvement ideas, don't hesitate to contact."; ObjectID = "5k1-LE-NNY"; */
+"5k1-LE-NNY.footerTitle" = "Если вам нравится vPlaces, пожалуйста, напишите мне. \n\nЕсли у вас есть вопросы, предложения, идеи - я всегда буду рад их услышать.";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Contact author"; ObjectID = "5k1-LE-NNY"; */
+"5k1-LE-NNY.headerTitle" = "Связаться с автором";
+
+/* Class = "IBUILabel"; text = "1.0"; ObjectID = "6AD-4F-wJn"; */
+"6AD-4F-wJn.text" = "1.0";
+
+/* Class = "IBUILabel"; text = "Version"; ObjectID = "8OJ-9w-lAy"; */
+"8OJ-9w-lAy.text" = "Версия";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "9FK-iw-Xe7"; */
+"9FK-iw-Xe7.text" = "Title";
+
+/* Class = "IBUILabel"; text = "Blog"; ObjectID = "AJa-rS-5fr"; */
+"AJa-rS-5fr.text" = "Блог";
+
+/* Class = "IBUINavigationItem"; title = "Choose Hue hub"; ObjectID = "CXR-UC-Z5k"; */
+"CXR-UC-Z5k.title" = "Выберите контроллер hue";
+
+/* Class = "IBUILabel"; text = "Facebook"; ObjectID = "Ehp-Tx-3l4"; */
+"Ehp-Tx-3l4.text" = "Facebook";
+
+/* Class = "IBUINavigationItem"; title = "Discovering Hue hubs..."; ObjectID = "LBl-4Q-xHe"; */
+"LBl-4Q-xHe.title" = "Поиск hue...";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "MmT-9Y-gac"; */
+"MmT-9Y-gac.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Leave a review"; ObjectID = "MuT-6W-2et"; */
+"MuT-6W-2et.text" = "Написать отзыв";
+
+/* Class = "IBUILabel"; text = "easyplace.wordpress.org"; ObjectID = "P5p-cp-jxF"; */
+"P5p-cp-jxF.text" = "easyplace.wordpress.org";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "PLK-a3-tZX"; */
+"PLK-a3-tZX.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Twitter"; ObjectID = "Pqg-I5-A59"; */
+"Pqg-I5-A59.text" = "Twitter";
+
+/* Class = "IBUILabel"; text = "dtazetdinov"; ObjectID = "RLY-kK-sjf"; */
+"RLY-kK-sjf.text" = "dtazetdinov";
+
+/* Class = "IBUILabel"; text = "Choose Hue lights"; ObjectID = "SvK-im-bnH"; */
+"SvK-im-bnH.text" = "Лампы hue";
+
+/* Class = "IBUILabel"; text = "Danis Tazetdinov"; ObjectID = "UJi-3V-gPp"; */
+"UJi-3V-gPp.text" = "Данис Тазетдинов";
+
+/* Class = "IBUILabel"; text = "d.tazetdinov@me.com"; ObjectID = "UeY-8V-NLx"; */
+"UeY-8V-NLx.text" = "d.tazetdinov@me.com";
+
+/* Class = "IBUILabel"; text = "Acknowledgements"; ObjectID = "VDR-MN-7S4"; */
+"VDR-MN-7S4.text" = "Уведомления";
+
+/* Class = "IBUINavigationItem"; title = "About vPlaces"; ObjectID = "XmQ-ap-dMC"; */
+"XmQ-ap-dMC.title" = "О vPlaces";
+
+/* Class = "IBUINavigationItem"; title = "Acknowledgements"; ObjectID = "cMZ-8e-guQ"; */
+"cMZ-8e-guQ.title" = "Уведомления";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "fFm-rG-bwf"; */
+"fFm-rG-bwf.text" = "Subtitle";
+
+/* Class = "IBUITableViewSection"; footerTitle = "Please, write your review in App Store."; ObjectID = "hJM-uF-1by"; */
+"hJM-uF-1by.footerTitle" = "Пожалуйста, оставьте ваш отзыв о приложении в App Store.";
+
+/* Class = "IBUITableViewSection"; headerTitle = "About vPlaces"; ObjectID = "hch-Oe-XUO"; */
+"hch-Oe-XUO.headerTitle" = "О vPlaces";
+
+/* Class = "IBUILabel"; text = "E-mail"; ObjectID = "jPN-pO-sFr"; */
+"jPN-pO-sFr.text" = "E-mail";
+
+/* Class = "IBUILabel"; text = "dtazetdinov"; ObjectID = "jRK-uB-hU0"; */
+"jRK-uB-hU0.text" = "dtazetdinov";
+
+/* Class = "IBUILabel"; text = "Status"; ObjectID = "ka6-Zm-g2D"; */
+"ka6-Zm-g2D.text" = "Статус";
+
+/* Class = "IBUITableViewSection"; headerTitle = "vPlaces app"; ObjectID = "l8m-n4-YXB"; */
+"l8m-n4-YXB.headerTitle" = "Приложение vPlaces";
+
+/* Class = "IBUIButton"; normalTitle = "Done"; ObjectID = "oK2-om-tfB"; */
+"oK2-om-tfB.normalTitle" = "Закончить";
+
+/* Class = "IBUILabel"; text = "LinkedIn"; ObjectID = "r3L-cR-ZuU"; */
+"r3L-cR-ZuU.text" = "LinkedIn";
+
+/* Class = "IBUITableViewSection"; footerTitle = "You can select which Hue lights will be used. You can choose lights only when connected to Hue hub."; ObjectID = "sNf-Ae-juL"; */
+"sNf-Ae-juL.footerTitle" = "Вы можете указать, какие лампы hue будут использоваться. Вы можете выбирать лампы, когда подключены к hue.";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Configuration"; ObjectID = "sNf-Ae-juL"; */
+"sNf-Ae-juL.headerTitle" = "Конфигурация";
+
+/* Class = "IBUILabel"; text = "@edeniska"; ObjectID = "t4U-eB-gn3"; */
+"t4U-eB-gn3.text" = "@edeniska";
+
+/* Class = "IBUINavigationItem"; title = "Settings"; ObjectID = "vEZ-IK-8MI"; */
+"vEZ-IK-8MI.title" = "Настройки";
+
+/* Class = "IBUILabel"; text = "vPlaces"; ObjectID = "y8g-AD-1SC"; */
+"y8g-AD-1SC.text" = "vPlaces";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "zbz-7J-Lbs"; */
+"zbz-7J-Lbs.text" = "Title";
+
+/* Class = "IBUILabel"; text = "More places, more features, more cool things are coming soon!\n\nStay tuned!"; ObjectID = "Pwq-EV-uNd"; */
+"Pwq-EV-uNd.text" = "Новые места, новые возможности - уже скоро!\n\nПриятных путешествий!";
+
+/* Class = "IBUILabel"; text = "Reconnect to Hue"; ObjectID = "Yyy-6M-iO4"; */
+"oeD-5y-SUl.text" = "Переподключиться к hue";
+
+"yWX-bI-vkx.text" = "Удалить все места";
+
+"axo-Sb-PnI.title" = "Настройки";
+
+"svJ-q8-oft.headerTitle" = "Сотовая связь";
+"svJ-q8-oft.footerTitle" = "Скачиваемые места занимают значительный объем, учитывайте сетевой трафик.";
+"Yyy-6M-iO4.text" = "Разрешить загрузку по 3G/LTE";
+
+/* Class = "IBUITableViewSection"; footerTitle = "When lamp colos are not updated properly, you might need to reconnect to Hue."; ObjectID = "svJ-q8-oft"; */
+"Drh-bl-X2Z.footerTitle" = "Если цвета ламп меняются неправильно, вам может потребоваться повторное подключение к hue.";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Troubleshooting"; ObjectID = "svJ-q8-oft"; */
+"hKG-hh-HZz.headerTitle" = "Первая помощь";
+
+"tEj-om-tZH.headerTitle" = "Другие приложения";
+
+/* Watch your photos - vPhotos promo label */
+"EJj-ax-X49.text" = "Окунись в фотографию.";
+
