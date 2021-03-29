@@ -23,7 +23,7 @@
 
 NSString * const VPLPlaceDownloadedNotification = @"VPLPlaceDownloadedNotification";
 
-NSString * const kVPLRemotePlacesURL     = @"https://e-deniska.github.io/vPlaces/places.json";
+NSString * const kVPLRemotePlacesURL     = @"https://edeniska.github.io/vPlaces/places.json";
 
 
 NSString * const kVPLPlacesDirectory     = @"places";
